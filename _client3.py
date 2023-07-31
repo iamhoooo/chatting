@@ -44,3 +44,6 @@ while True:
 
 client_socket.close()
 window.close()
+
+
+
